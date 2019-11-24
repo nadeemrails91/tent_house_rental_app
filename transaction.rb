@@ -58,9 +58,9 @@ class Transaction
    					puts format("%-17s %-24s %-10s %-10s","#{key}","#{value[:date]}","#{value[:type]}","#{value[:quantity]}")
    				end	
    			end
+        puts "-" * 7
    			puts
    		else
-   			puts
    			puts "-" * 7
    			puts
    		end			

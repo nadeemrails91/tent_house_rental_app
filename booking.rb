@@ -74,6 +74,7 @@ class Booking
         all_items.each do |key,value|
             puts "Item Name: #{value[:name]}"
             puts "Available Quantity: #{value[:quantity]}"
+            puts
             @transaction.print_all_transactions key
         end    
     end
