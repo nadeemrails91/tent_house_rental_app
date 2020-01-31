@@ -1,16 +1,25 @@
-# Tent-House-Rental
-The APPLICATION IS COMPLETELY WORKING ACCORDING TO THE REQUIREMENTS.
+# Mindfire Assignment for a Tent House Rental Application built in Ruby.
+This application is built in ruby language. No additional gem is used in this.
 
-TO RUN THE APPLICATION -
-a.)OPEN COMMAND LINE OR TERMINAL.
-b.)CLONE THE APPPLICATION.
-c.)NAVIGATE TO THE APPLICATION.
-d.)RUN THE MAIN.RB FILE BY TYPING ruby main.rb
+This application is based on the assignmemnt provided by MindFire Solutions.
 
-NO RUBY GEM IS USED . ONLY PURE RUBY CODE
 
-ALMOST ALL THE CORNER CASES ARE ACKNOWLEGED.
+Please follow these steps to run application:
 
-MAXIMUM USE OF OBJECT ORIENTED FEATURES.
+1) Clone the application from Github.
+b) Change to application directory
+c) To run application execute this command: ruby main.rb
+d) Follow the steps suggested in Application Menu
 
-REUSEABLITY OF CODE WHEREVER POSSIBLE.
+These are the Menu Options:
+
+  Choose Your option
+
+  Option Code 0: Initiate Item Data 
+  Option Code 1: Show List of all items with available quantity 
+  Option Code 2: Book one or more item for rent
+  Option Code 3: Return one or more item
+  Option Code 4: Show Tent House Transaction for All Items
+  Option Code 9: For Exit
+
+  
